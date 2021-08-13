@@ -15,6 +15,9 @@ clone this repo
 - install the necessary libraries
 - run `Rice_Quality_analysis.ipynb
 See the output in the Output Folder
+
+
+
 **METHOD 2**
 open MATLAB online
 Upload rice image
