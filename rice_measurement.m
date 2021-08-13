@@ -1,4 +1,4 @@
-f = imread('images/rice/img14.jpg');
+f = imread('rice.jpg');
 
 
 %convert the image to black and white 
